@@ -132,7 +132,7 @@ requests-mock==1.12.1
     # via -r requirements.in
 rich==14.3.4
     # via flask-limiter
-ruff==0.13.1
+ruff==0.17.0
     # via -r requirements.in
 s3transfer==0.14.0
     # via boto3
