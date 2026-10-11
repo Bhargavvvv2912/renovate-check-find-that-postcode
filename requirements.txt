@@ -121,7 +121,7 @@ python-dateutil==2.9.0.post0
     #   sqlite-utils
 python-dotenv==1.1.1
     # via -r requirements.in
-requests==2.32.5
+requests==2.34.2
     # via
     #   -r requirements.in
     #   requests-cache
