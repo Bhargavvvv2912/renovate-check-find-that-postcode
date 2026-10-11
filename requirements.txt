@@ -59,7 +59,7 @@ flask-cors==6.0.5
     # via -r requirements.in
 flask-limiter==4.1.1
     # via -r requirements.in
-gunicorn==23.0.0
+gunicorn==26.2.0
     # via -r requirements.in
 idna==3.10
     # via
