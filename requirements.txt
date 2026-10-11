@@ -79,7 +79,7 @@ limits==5.5.0
     # via flask-limiter
 markdown-it-py==4.0.0
     # via rich
-markupsafe==3.0.2
+markupsafe==3.0.4
     # via
     #   flask
     #   jinja2
