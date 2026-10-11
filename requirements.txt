@@ -110,7 +110,7 @@ pygments==2.21.0
     # via
     #   pytest
     #   rich
-pyproj==3.7.2
+pyproj==3.8.0
     # via -r requirements.in
 pytest==8.4.2
     # via -r requirements.in
