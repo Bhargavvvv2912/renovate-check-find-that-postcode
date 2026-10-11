@@ -43,7 +43,7 @@ dictlib==1.1.5
     # via -r requirements.in
 elasticmock==1.8.1
     # via -r requirements.in
-elasticsearch==7.8.1
+elasticsearch==7.17.13
     # via
     #   -r requirements.in
     #   elasticmock
