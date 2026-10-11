@@ -61,7 +61,7 @@ flask-limiter==3.13
     # via -r requirements.in
 gunicorn==23.0.0
     # via -r requirements.in
-idna==3.10
+idna==3.20
     # via
     #   requests
     #   url-normalize
