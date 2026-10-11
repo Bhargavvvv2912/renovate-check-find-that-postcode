@@ -112,7 +112,7 @@ pygments==2.21.0
     #   rich
 pyproj==3.8.0
     # via -r requirements.in
-pytest==8.4.2
+pytest==9.1.1
     # via -r requirements.in
 python-dateutil==2.9.0.post0
     # via
