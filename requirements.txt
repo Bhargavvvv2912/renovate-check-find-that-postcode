@@ -95,7 +95,7 @@ openpyxl==3.1.5
     # via -r requirements.in
 ordered-set==4.1.0
     # via flask-limiter
-packaging==25.0
+packaging==26.3
     # via
     #   gunicorn
     #   limits
