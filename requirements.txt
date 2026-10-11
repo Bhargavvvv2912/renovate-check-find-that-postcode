@@ -17,7 +17,7 @@ botocore==1.40.35
     #   s3transfer
 cattrs==25.2.0
     # via requests-cache
-certifi==2025.8.3
+certifi==2025.11.12
     # via
     #   elasticsearch
     #   pyproj
