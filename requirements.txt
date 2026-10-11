@@ -100,7 +100,7 @@ packaging==25.0
     #   gunicorn
     #   limits
     #   pytest
-platformdirs==4.4.0
+platformdirs==4.13.0
     # via requests-cache
 pluggy==1.6.0
     # via
