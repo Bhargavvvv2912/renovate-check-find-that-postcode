@@ -9,7 +9,7 @@ blinker==1.9.0
     #   -r requirements.in
     #   flask
     #   sentry-sdk
-boto3==1.40.35
+boto3==1.43.111
     # via -r requirements.in
 botocore==1.40.35
     # via
